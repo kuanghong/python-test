@@ -1,2 +1,2 @@
 # python-test
-this project is 
+this project is python code test
